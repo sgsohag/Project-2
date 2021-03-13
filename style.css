@@ -1,0 +1,160 @@
+/* Heder section */
+.heder{
+    background: rgb(39, 19, 153);
+    
+}
+.heder img{
+    width: 130px;
+    height: auto;
+}
+.heder ul{
+    margin: auto;
+    
+}
+.heder ul li{
+    display: inline-block;
+
+}
+.heder ul li a{
+    padding: 18px 16px;
+    color: white;
+    font-size: 20px;
+   text-align: center;
+   display: block;
+}
+/* banner section */
+.banner{
+    background-image: url( https://images.unsplash.com/photo-1557626204-59dd03fd2d31?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80);
+    text-align: center;
+    color: white;
+    padding: 180px 0;
+}
+.banner h2{
+    background: rgba(0, 132, 255, .4);
+    margin: auto;
+    color: white;
+    max-width: 340px;
+    font-size: 25px;
+    padding: 14px;
+    border-radius: 5px;
+}
+.banner h1{
+    background: rgba(9, 183, 214, 0.4);
+    margin: auto;
+    color: white;
+    max-width: 450px;
+    padding: 14px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+/* About Section */
+.about{
+    background: rgba(28, 33, 41, .2);
+    text-align: center;
+    padding: 30px;
+    padding-bottom: 60px;
+}
+.about h2{
+    font-size: 50px;
+    margin-bottom: 25px;
+}
+.about p{
+    max-width: 680px;
+    margin: auto;
+    font-size: 18px;
+}
+.service{
+  padding-top: 60px;
+ background: rgba(76, 128, 129, .2);
+}
+.service-item{
+    border: 1px solid rgb(137, 108, 192);
+    padding: 25px 18px;
+    
+}
+.service span{
+    display: block;
+    height: 60px;
+    width: 60px;
+    background: rgb(58, 8, 238);
+    color: white;
+    margin: auto;
+    font-size: 40px;
+    text-align: center;
+    border-radius: 20px 0;
+    margin-bottom: 20px;
+}
+.service h3{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 30px;
+    
+}
+.service p{
+    text-align: center;
+}
+
+/* Content Section */
+
+.content-section {
+    padding-top: 70px ;
+    padding-bottom: 90px;
+    background: rgba(76, 128, 129, .1);
+}
+.content-section img{
+    width: 200px;
+    height: auto;
+    position: absolute;
+    margin-left: -14px;
+}
+.content-section  p{
+    margin-left: 200px;
+    position: relative;
+     text-align: center;
+}
+.content-section h2{
+    font-size: 40px;
+    border-bottom: 1px solid rgb(35, 12, 240);
+    margin-bottom: 15px;
+    padding-bottom: 14px;
+   margin-left: 30px;
+}
+}
+.content-section ul{
+    list-style: none;
+}
+.content-section ul li{
+    border: 1px solid #dddddd;
+    background: #ffaaff;
+    padding: 15px;
+    font-size: 20px;
+    margin-bottom: 9px;
+    border-radius: 5px;
+}
+.content-section ul li a{}
+
+/* Footer Sextion */
+.footer{
+    background: rgba(10, 10, 10, .6);
+    padding: 20px;
+    
+}
+.footer p{ 
+    color: white;
+    font-size: 25px;
+}
+.footer ul{
+    margin: auto;
+    margin-left: 250px;
+    
+}
+.footer ul li{
+    display: inline-block;
+}
+.footer ul li a{
+    font-size: 30px;
+    color: white;
+    padding: 10px;
+    
+}
